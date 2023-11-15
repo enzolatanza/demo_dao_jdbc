@@ -43,3 +43,8 @@ $git status
 $git add .
 $git commit -m "Reusing instantiation"
 $git push
+//----------------------------------------------------
+$git status
+$git add .
+$git commit -m "findByDepartment implementation"
+$git push
