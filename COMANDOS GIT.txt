@@ -28,3 +28,8 @@ $git status
 $git add .
 $git commit -m "DepartmentDao and SellerDao interfaces"
 $git push
+//----------------------------------------------------
+$git status
+$git add .
+$git commit -m "SellerDaoJDBC and DaoFactory"
+$git push
