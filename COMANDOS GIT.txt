@@ -48,3 +48,8 @@ $git status
 $git add .
 $git commit -m "findByDepartment implementation"
 $git push
+//----------------------------------------------------
+$git status
+$git add .
+$git commit -m "Insert implementation"
+$git push
