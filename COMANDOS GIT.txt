@@ -33,3 +33,8 @@ $git status
 $git add .
 $git commit -m "SellerDaoJDBC and DaoFactory"
 $git push
+//----------------------------------------------------
+$git status
+$git add .
+$git commit -m "findById implementation"
+$git push
