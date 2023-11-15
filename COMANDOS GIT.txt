@@ -12,3 +12,9 @@ $git add .
 $git commit -m "Creating project and git repository"
 //enviando o projeto para o github
 $git push -u origin main
+
+//----------------------------------------------------
+$git add .
+$git status
+$git commit -m "Department entity class"
+$git push
