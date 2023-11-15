@@ -23,3 +23,8 @@ $git status
 $git add .
 $git commit -m "Seller entity class"
 $git push
+//----------------------------------------------------
+$git status
+$git add .
+$git commit -m "DepartmentDao and SellerDao interfaces"
+$git push
